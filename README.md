@@ -10,11 +10,11 @@ Intended to be a working repo and will add scripts as needed. Feel free to reach
 ### Examples
 * `potential_flow.py`
     * Source at origin with streamlines and vector plot:
-    ![](https://github.com/mr-gabrielrios/fluid_mechanics/blob/master/examples/potential_flow_example_source_vector_plot_streamline.png)  
+        * ![](https://github.com/mr-gabrielrios/fluid_mechanics/blob/master/examples/potential_flow_example_source_vector_plot_streamline.png)  
           
     * Doublet at origin with streamlines only    
-    ![](https://github.com/mr-gabrielrios/fluid_mechanics/blob/master/examples/potential_flow_example_doublet.png)
+        * ![](https://github.com/mr-gabrielrios/fluid_mechanics/blob/master/examples/potential_flow_example_doublet.png)
         
     * Doublet at origin with streamlines and colormap
-    ![](https://github.com/mr-gabrielrios/fluid_mechanics/blob/master/examples/potential_flow_example_doublet_colormap.png)
+        * ![](https://github.com/mr-gabrielrios/fluid_mechanics/blob/master/examples/potential_flow_example_doublet_colormap.png)
     
